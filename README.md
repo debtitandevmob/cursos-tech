@@ -1,2 +1,2 @@
-# cursos-tech
-Cursos na area de Tecnologia
+# Cursos de Tecnologia
+Todos os cursos na area de Tecnologia que fiz até o momento
